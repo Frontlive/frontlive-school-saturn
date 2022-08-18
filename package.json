@@ -1,0 +1,25 @@
+{
+  "name": "frontlive-school-saturn",
+  "version": "1.0.0",
+  "description": "Serwis do znajdowania przestrzeni do pracy typu co-working.",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frontlive/frontlive-school-saturn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frontlive/frontlive-school-saturn/issues"
+  },
+  "homepage": "https://github.com/Frontlive/frontlive-school-saturn#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
